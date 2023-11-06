@@ -1,4 +1,4 @@
-name: "Azure DevOps NPM"
+name: "@Precise Azure DevOps NPM"
 description: Setup .npmrc file for Azure DevOps"
 branding:
     icon: "align-justify"
